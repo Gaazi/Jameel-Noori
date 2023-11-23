@@ -1,0 +1,18 @@
+/* Jameel Noori Nastaliq v4 */
+@font-face {
+  font-family: "JameelNooriNastaliq";
+  src: url(https://cdn.jsdelivr.net/npm/jameel-noori/jameel-noori-nastaleeq4.woff2) format('woff2');
+       /* url(//unpkg.com/jameel-noori/jameel-noori-nastaleeq4.woff2) format('woff2'); */
+}
+  /* CSS Aplly */
+body {
+    font-family: "JameelNooriNastaliq";
+}
+.post-title {
+  font-family: "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}
+
+.post-body {
+      font-family: "JameelNooriNastaliq";
+}
+
